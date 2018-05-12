@@ -1,0 +1,40 @@
+_repo: Frank-in-the-Woods_42307
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42307-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Fosdick, Charles Austin
+    - Castlemon, Henry
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+description: Young readers who are fans of hunting, fishing, and the great outdoors
+  will love Frank in the Woods, one in a series of thrilling juvenile action-adventure
+  tales featuring up-for-anything Frank and his loyal sidekick Archie. In this installment,
+  the pair find themselves face-to-face with the grandeur, and the danger, of nature
+  in all its glory.
+gutenberg_issued: '2013-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunters -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'West (U.S.) -- Juvenile fiction'
+- !lcsh 'Mexican War, 1846-1848 -- Juvenile fiction'
+- !lcc 'PZ'
+title: Frank in the Woods
+url: http://www.gutenberg.org/ebooks/42307
